@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>camera-qtvideosink.qml</file>
+    </qresource>
+</RCC>
